@@ -13,7 +13,7 @@
 
 
 body {
-  background-image: url("file:///C:/Users/aves_/OneDrive/Documents/GitHub/y10-website/ieruigfiusf.jpg")
+  background-image: url("home_page_background.jpg")
 }
 
 body {
@@ -384,7 +384,7 @@ body {
   }
 
   .aboutme2 {
-    background-image: url("file:///C:/Users/aves_/OneDrive/Documents/GitHub/y10-website/WhatsApp%20Image%202024-03-05%20at%2021.02.32_bc11be0f.jpg");
+    background-image: url("about_me_background.jpg");
     background-repeat: no-repeat;
     background-attachment: fixed;
     background-size: 100% 100%;

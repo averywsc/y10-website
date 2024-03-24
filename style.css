@@ -375,7 +375,7 @@ body {
   }
 
   .credit2 {
-    background-image: url("file:///C:/Users/aves_/Downloads/Untitled%20design.png");
+    background-image: url("file:///C:/Users/aves_/OneDrive/Documents/GitHub/y10-website/Untitled%20design.png");
     background-repeat: no-repeat;
     background-attachment: fixed;
     background-size: 100% 100%;
@@ -384,7 +384,7 @@ body {
   }
 
   .aboutme2 {
-    background-image: url("file:///C:/Users/aves_/OneDrive/Documents/y10%20wbesite%20photos/WhatsApp%20Image%202024-03-05%20at%2021.02.32_bc11be0f.jpg");
+    background-image: url("file:///C:/Users/aves_/OneDrive/Documents/GitHub/y10-website/WhatsApp%20Image%202024-03-05%20at%2021.02.32_bc11be0f.jpg");
     background-repeat: no-repeat;
     background-attachment: fixed;
     background-size: 100% 100%;
@@ -424,7 +424,7 @@ body {
   .me {
     position: absolute;
     left: 620px;
-    bottom: 0px;
+    bottom: 0%;
     width: 330px;
     margin: 4px;
     
@@ -453,3 +453,14 @@ body {
   left: 580px;
 }
 
+.image1 {
+  position: absolute;
+  left: 100px;
+  bottom: 175px;
+  width: 250px;
+  margin: 4px;
+  border-color: rgb(252, 252, 252);
+  border-width: 3px;
+  border-style: solid;
+  border-radius: 10px;
+}
